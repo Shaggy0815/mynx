@@ -3,7 +3,7 @@ Mynx Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/mynx-project/mynx.svg?branch=master)](https://travis-ci.org/mynx-project/mynx)
 
-https://mynx.org
+https://mynxcoin.com
 
 What is Mynx?
 ----------------
