@@ -8,14 +8,9 @@ https://mynx.org
 What is Mynx?
 ----------------
 
-Mynx is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Mynx uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Mynx Core is the name of open source
-software which enables the use of this currency.
-
+Mynx is a Decentralized, Community Driven, Proof of Work (PoW) Crypto Currency with the goal of stepping away from the stereotypical Dog Coins inciting a new area to the Crypto Markets.
 For more information, as well as an immediately useable, binary version of
-the Mynx Core software, see [https://mynx.org](https://mynx.org).
+the Mynx Core software, see [https://mynxcoin.com](https://mynxcoin.com).
 
 License
 -------
